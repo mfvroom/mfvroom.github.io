@@ -1,3 +1,10 @@
 h1 {
     color: red;
 }
+
+.inter-font {
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
