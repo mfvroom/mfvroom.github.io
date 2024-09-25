@@ -1,9 +1,3 @@
-h1 {
-    color: red;
-    font-family: "Inter", system-ui;
-
-}
-
 .inter-font {
     font-family: "Inter", system-ui;
     font-optical-sizing: auto;
@@ -11,7 +5,13 @@ h1 {
     font-style: normal;
   }
 
-  p{
+h1 {
+    color: red;
+    font-family: "Inter", system-ui;
+
+}
+
+p {
         font-size: 1.5rem;
         font-family: "Inter", system-ui;
   }
