@@ -11,14 +11,15 @@ h1 {
 }
 
 h2 {
-        font-family: "Inter", system-ui;
+    font-family: "Inter", system-ui;
   }
 
 p {
-    font-size: .75rem;
+    font-size: 1rem;
     font-family: "Inter", system-ui;
   }
 
 li {
+    font-size: 1rem;
     font-family: "Inter", system-ui;
   }
