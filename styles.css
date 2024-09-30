@@ -7,7 +7,6 @@
 
 h1 {
     font-family: "Inter", system-ui;
-
 }
 
 h2 {
@@ -21,5 +20,9 @@ p {
 
 li {
     font-size: 1rem;
+    font-family: "Inter", system-ui;
+  }
+
+table {
     font-family: "Inter", system-ui;
   }
